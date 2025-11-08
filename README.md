@@ -1,4 +1,8 @@
 # MTech-Dissertation-Rpi-NAS
+NOTE:  After setup before starting project
+```
+source /home/pi/MTech-Dissertation-RPI-NAS/venv/bin/activate
+```
 - Building a Smart NAS System Using Raspberry Pi 4B with Bluetooth File Transfer and WhatsApp Alerts
 
 ## Objectives
