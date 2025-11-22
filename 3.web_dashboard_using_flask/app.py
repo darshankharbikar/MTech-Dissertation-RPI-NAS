@@ -15,7 +15,7 @@ login_manager = LoginManager()
 login_manager.init_app(app)
 login_manager.login_view = 'login'
 
-users = {'pi': generate_password_hash('1994')}
+users = {'pi': generate_password_hash('1234')}
 
 class User(UserMixin):
     def __init__(self, username):
