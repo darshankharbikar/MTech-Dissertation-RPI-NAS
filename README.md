@@ -3,7 +3,7 @@ NOTE:  After setup before starting project
 ```
 source /home/pi/MTech-Dissertation-RPI-NAS/venv/bin/activate
 ```
-- Building a Smart NAS System Using Raspberry Pi 4B with Bluetooth File Transfer and WhatsApp Alerts
+- Building a Smart NAS System Using Raspberry Pi 4B with Bluetooth File Transfer and Real-Time Monitoring
 
 ## Objectives
 1. ***NAS Implementation***: Build a fully functional NAS on Raspberry Pi 4B with external storage and Samba/CIFS sharing, accessible to Windows/Linux/Android clients.
