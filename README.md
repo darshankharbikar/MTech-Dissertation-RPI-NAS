@@ -12,12 +12,15 @@ source /home/pi/MTech-Dissertation-RPI-NAS/venv/bin/activate
 4. ***Alert Automation***: Develop Python scripts to monitor system status (disk usage, connectivity) and send real-time WhatsApp alerts through Twilio API when thresholds/events occur.
 5. Security (CIA Triad): Design security for Confidentiality (user-authenticated Samba, storage encryption), Integrity (checksums, change-logging, backups) and Availability        (RAID redundancy, auto-restart, health alerts).
 
-## Hardware :Quantity: its specifications
-1. ***Raspberry Pi***: 1: 4b model, 2Gb RAM, 5V, 3A
-2. ***Power Adapter***: 1: 5V 3A
-3. ***USB Drive***: 1: 128Gb
-4. ***User Equipment***:(Laptop, mobile) with wifi and bluetooth enabled
-5. ***SD Card***:1: minimum 16Gb
+## Hardware Requirements
+
+| S. No. | Hardware Component | Quantity | Specifications |
+|---|---|---:|---|
+| 1 | Raspberry Pi | 1 | Model 4B, 2 GB RAM, 5V, 3A |
+| 2 | Power Adapter | 1 | 5V, 3A |
+| 3 | USB Drive | 1 | 128 GB |
+| 4 | User Equipment | As required | Laptop/mobile with Wi-Fi and Bluetooth enabled |
+| 5 | SD Card | 1 | Minimum 16 GB |
 
 ## Tech Stack
 - Raspberry Pi 4B(ARM Cortex A-72)
